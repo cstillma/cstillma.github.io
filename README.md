@@ -7,21 +7,21 @@ This project will expose me to and familiarize me with an industry-grade game de
 This project is important to me because it’s long been a goal of mine to build my own games. Game dev is one of two professional tracks I’m considering, and knowledge of Unreal Engine is essential to becoming a developer at any major studio. Even if I choose to pursue an area other than game development professionally, completing this project will allow me to continue developing games as a hobbyist.
 
 ## Specific and Measurable Goals
-Week 1	Brainstorm project ideas 
-Week 2	Fine-tune project idea, work on proposal 
-Week 3	Install and set up Unreal Engine
-Week 4	More user interface, viewport settings, start creating and moving objects
-Week 5	Begin working with materials and textures
-Week 6	Material parameters and instances, create master materials
-Week 7	Create a static mesh
-Week 8	Lighting - learn types of lighting and Lumen tool
-Week 9	Archviz lighting - Lumen and baked 
-Week 10	Learn about landscape tools and materials
-Week 11	Flesh out foliage, work with Nanite
-Week 12	Work with Blueprints, begin working on castle
-Week 13	More landscape material, large details
-Week 14	Populate landscape with water, cliffs, trees
-Week 15	Complete castle setting, finalize details
+- Week 1	Brainstorm project ideas 
+- Week 2	Fine-tune project idea, work on proposal 
+- Week 3	Install and set up Unreal Engine
+- Week 4	More user interface, viewport settings, start creating and moving objects
+- Week 5	Begin working with materials and textures
+- Week 6	Material parameters and instances, create master materials
+- Week 7	Create a static mesh
+- Week 8	Lighting - learn types of lighting and Lumen tool
+- Week 9	Archviz lighting - Lumen and baked 
+- Week 10	Learn about landscape tools and materials
+- Week 11	Flesh out foliage, work with Nanite
+- Week 12	Work with Blueprints, begin working on castle
+- Week 13	More landscape material, large details
+- Week 14	Populate landscape with water, cliffs, trees
+- Week 15	Complete castle setting, finalize details
 
 ## Risks to Project Completion
 1. Completely unfamiliar with working environment going in to project
