@@ -16,7 +16,7 @@ This week I plan to work on fleshing out the details and scope of my project in 
 
 I don't see any impediments in my way at present. 
 
-### Reflection on the process
+### Reflection on the process:
 
 I sometimes find it difficult with self-directed projects to know where to start which was somewhat of an impediment for me last week.
 Knowing this about myself factored into my ultimate decision regarding my choice of project, as I wanted to pick something where there's some convention around the workflow of a project along with plenty of resources if I get stuck.
