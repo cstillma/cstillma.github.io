@@ -1,0 +1,11 @@
+title: Unreal Engine Learning Project
+description: Unreal Engine Learning project for CSPB3112 Professional Development course.
+baseurl: ""
+url: "https://cstillma.github.io/"
+
+nav:
+ - home: /
+ - blog: /blog/
+
+ # Build settings
+ theme: minima
