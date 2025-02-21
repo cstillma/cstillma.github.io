@@ -11,7 +11,8 @@ My plan for this upcoming week is to create a static mesh for my project and con
 
 ### Are there any impediments in your way?
 
-I continue to have no impediments to my progress. 
+I ran into some issues this week while trying to uplevel my site. 
+I'm still trying to troubleshoot some of the build/deployment issues that are preventing me from employing any themes, so this will continue into next week. 
 
 ### Reflection on the process:
 
