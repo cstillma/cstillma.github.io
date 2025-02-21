@@ -7,7 +7,7 @@ This project will expose me to and familiarize me with an industry-grade game de
 This project is important to me because it’s long been a goal of mine to build my own games. Game dev is one of two professional tracks I’m considering, and knowledge of Unreal Engine is essential to becoming a developer at any major studio. Even if I choose to pursue an area other than game development professionally, completing this project will allow me to continue developing games as a hobbyist.
 
 ## Specific and Measurable Goals
-- Week 1:	Brainstorm project ideas 
+- [Week 1](Weekly_Update_1.md):	Brainstorm project ideas 
 - Week 2:	Fine-tune project idea, work on proposal 
 - Week 3:	Install and set up Unreal Engine
 - Week 4:	More user interface, viewport settings, start creating and moving objects
