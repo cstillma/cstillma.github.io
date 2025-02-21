@@ -8,20 +8,20 @@ This project is important to me because it’s long been a goal of mine to build
 
 ## Specific and Measurable Goals
 - [Week 1](Weekly_Update_1.md):	Brainstorm project ideas 
-- Week 2:	Fine-tune project idea, work on proposal 
-- Week 3:	Install and set up Unreal Engine
-- Week 4:	More user interface, viewport settings, start creating and moving objects
-- Week 5:	Begin working with materials and textures
-- Week 6:	Material parameters and instances, create master materials
-- Week 7:	Create a static mesh
-- Week 8:	Lighting - learn types of lighting and Lumen tool
-- Week 9:	Archviz lighting - Lumen and baked 
-- Week 10:	Learn about landscape tools and materials
-- Week 11:	Flesh out foliage, work with Nanite
-- Week 12:	Work with Blueprints, begin working on castle
-- Week 13:	More landscape material, large details
-- Week 14:	Populate landscape with water, cliffs, trees
-- Week 15:	Complete castle setting, finalize details
+- [Week 2](Weekly_Update_2.md):	Fine-tune project idea, work on proposal 
+- [Week 3](Weekly_Update_3.md):	Install and set up Unreal Engine
+- [Week 4](Weekly_Update_4.md):	More user interface, viewport settings, start creating and moving objects
+- [Week 5](Weekly_Update_5.md):	Begin working with materials and textures
+- [Week 6](Weekly_Update_6.md):	Material parameters and instances, create master materials
+- [Week 7](Weekly_Update_7.md):	Create a static mesh
+- [Week 8](Weekly_Update_8.md):	Lighting - learn types of lighting and Lumen tool
+- [Week 9](Weekly_Update_9.md):	Archviz lighting - Lumen and baked 
+- [Week 10](Weekly_Update_10.md):	Learn about landscape tools and materials
+- [Week 11](Weekly_Update_11.md):	Flesh out foliage, work with Nanite
+- [Week 12](Weekly_Update_12.md):	Work with Blueprints, begin working on castle
+- [Week 13](Weekly_Update_13.md):	More landscape material, large details
+- [Week 14](Weekly_Update_14.md):	Populate landscape with water, cliffs, trees
+- [Week 15](Weekly_Update_15.md):	Complete castle setting, finalize details
 
 ## Risks to Project Completion
 1. Completely unfamiliar with working environment going in to project
