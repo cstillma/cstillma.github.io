@@ -1,4 +1,7 @@
-## Weekly Project Post 1
+---
+layout: post
+title: Weekly Project Post 1
+---
 
 ### What did you do last week?
 
