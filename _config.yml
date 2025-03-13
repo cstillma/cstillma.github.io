@@ -22,20 +22,21 @@ author: Caleb Stillman
 navbar-links:
   About Me: "aboutme"
   Posts:
-    - Weekly Update 1: "https://cstillma.github.io/2025-01-23-Weekly-Update-1/"
-    - Weekly Update 2: "https://cstillma.github.io/2025-01-23-Weekly-Update-2/"
-    - Weekly Update 3: "https://cstillma.github.io/2025-01-23-Weekly-Update-3/"
-    - Weekly Update 4: "https://cstillma.github.io/2025-01-23-Weekly-Update-4/"
-    - Weekly Update 5: "https://cstillma.github.io/2025-01-23-Weekly-Update-5/"
-    - Weekly Update 6: "https://cstillma.github.io/2025-01-23-Weekly-Update-6/"
-    - Weekly Update 7: "https://cstillma.github.io/2025-01-23-Weekly-Update-7/"
-    - Weekly Update 8: "https://cstillma.github.io/2025-01-23-Weekly-Update-8/"
-    - Weekly Update 9: "https://cstillma.github.io/2025-01-23-Weekly-Update-9/"
-    - Weekly Update 10: "https://cstillma.github.io/2025-01-23-Weekly-Update-10/"
-    - Weekly Update 11: "https://cstillma.github.io/2025-01-23-Weekly-Update-11/"
-    - Weekly Update 12: "https://cstillma.github.io/2025-01-23-Weekly-Update-12/"
-    - Weekly Update 13: "https://cstillma.github.io/2025-01-23-Weekly-Update-13/"
-    - Weekly Update 14: "https://cstillma.github.io/2025-01-23-Weekly-Update-14/"
+    - Weekly Updates:
+      - Weekly Update 1: "https://cstillma.github.io/2025-01-23-Weekly-Update-1/"
+      - Weekly Update 2: "https://cstillma.github.io/2025-01-31-Weekly-Update-2/"
+      - Weekly Update 3: "https://cstillma.github.io/2025-02-06-Weekly-Update-3/"
+      - Weekly Update 4: "https://cstillma.github.io/2025-02-13-Weekly-Update-4/"
+      - Weekly Update 5: "https://cstillma.github.io/2025-02-20-Weekly-Update-5/"
+      - Weekly Update 6: "https://cstillma.github.io/2025-02-27-Weekly-Update-6/"
+      - Weekly Update 7: "https://cstillma.github.io/2025-03-06-Weekly-Update-7/"
+      - Weekly Update 8: "https://cstillma.github.io/2025-03-13-Weekly-Update-8/"
+      - Weekly Update 9: "https://cstillma.github.io/2025-03-20-Weekly-Update-9/"
+      - Weekly Update 10: "https://cstillma.github.io/2025-03-27-Weekly-Update-10/"
+      - Weekly Update 11: "https://cstillma.github.io/2025-04-03-Weekly-Update-11/"
+      - Weekly Update 12: "https://cstillma.github.io/2025-04-10-Weekly-Update-12/"
+      - Weekly Update 13: "https://cstillma.github.io/2025-04-17-Weekly-Update-13/"
+      - Weekly Update 14: "https://cstillma.github.io/2025-04-24-Weekly-Update-14/"
     - Learning Resources Review: "https://cstillma.github.io/2025-02-27-Learning-Resources-Review/"
     - Mid-Semester Project Update: "https://cstillma.github.io/2025-03-06-Mid-Semester-Project-Update/"
 
@@ -73,7 +74,7 @@ social-network-links:
   # whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
- linkedin: caleb-stillman
+ linkedin: caleb-stillman-0851b2a7
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -106,8 +107,8 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: false
-  facebook: false
+  twitter: true
+  facebook: true
   linkedin: true
   vk: false
 
