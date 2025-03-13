@@ -1,8 +1,11 @@
+---
+layout: page
+title: Learning Project Proposal
+---
+
 # Unreal Engine Learning Project
 
 > By [Caleb Stillman](https://cstillma.github.io/)
-
-## Table of contents
 
 ## Vision Statement
 This project will expose me to and familiarize me with an industry-grade game development engine. The knowledge gained throughout the course of the project will allow me to add a marketable skill to my resume and a useful project to my portfolio. 
