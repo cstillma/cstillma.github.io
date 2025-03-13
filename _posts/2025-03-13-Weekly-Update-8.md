@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weekly Project Post 1
+title: Weekly Project Post 8
 ---
 
 ### What did you do last week?
