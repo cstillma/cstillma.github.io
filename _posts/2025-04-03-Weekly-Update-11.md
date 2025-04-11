@@ -14,7 +14,7 @@ Overall, I spent more time this week than intended based on my workload planning
 
 Here is a screenshot of what my final game environment looks like at this stage - mostly still a blank canvas - all I've added so far is lighting, sky, clouds, a post-process volume for controlling the exposure of the lighting I added, and a mannequin and cube for scale references. 
 
-
+![Week 12 Screenshot](Week_12_Screenshot.png)
 
 ### What do you plan to do this week?
 
