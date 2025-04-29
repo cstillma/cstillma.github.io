@@ -1,0 +1,69 @@
+---
+layout: post
+title: Final Project Report
+---
+
+# Unreal Engine 5 Final Project Report #
+
+## Introduction ##
+
+The vision for this project was to develop an environment which would bear resemblance to the type of world constructed for the game The Elder Scrolls IV: Oblivion, 
+using that inspiration as the vehicle to self-teach Unreal Engine 5.5 and the fundamentals of video game level design. 
+The goal for the end of the project was to have a medieval-style castle set in a forested mountain glade. 
+
+## Background ##
+
+This project is ultimately about self-developing the skills needed to work comfortably within the latest version of Unreal Engine, a popular video game development engine. 
+Unreal is one of the oldest and most widely used game engines, and is the most common engine used in the highest-profile, highest-selling, and most popular video games - 
+AAA titles such as Fortnite, Gears of War, Bioshock Infinite, Dead Island 2, and countless others. 
+While other engines such as Unity have also become popular in recent years, Unity tends to be used more for mobile or indie console games. 
+My personal leanings as a gamer are towards more cinematic, story-driven console games, so most of what I play utilizes Unreal Engine. 
+I have been interested in game development as a career path since high school, but ultimately my first degree was in English Literature. 
+As time progressed, I knew I wanted to revisit that dream, and while University of Colorado Boulder’s post-bacc program has been important in making that happen, 
+this project is the most direct step I’ve taken during the program to make this dream a reality. 
+It’s key to my professional development as I begin to look for game development jobs, as this project will be teaching me many of the tools, methods, and workflows which I would be applying in the game development industry. 
+
+## Methodology ##
+
+There is no substitute for hands-on work, so the primary methodology I applied to obtain the knowledge and skills developed throughout this project was undirected experimentation - 
+well, somewhat directed, in that I developed a list of topics I would need to understand in the engine in order to produce my final game environment, but undirected in that each week, 
+I chose one or two of these and simply experimented with them in Unreal Engine, building small test environments and adjusting settings. 
+This was supplemented by reading articles, blogs, watching YouTube tutorials, and Unreal Engine’s own FAQs and other Help resources as necessary. 
+An example of this type of supplemental material was a YouTube tutorial I watched on how to add free assets from the Fab marketplace plugin directly into your Unreal project, 
+rather than downloading them from the browser-based Fab marketplace onto your local machine and then importing them into your project. 
+This was a simple workflow to understand, but it is a much more direct workflow to implement, saving time and integrating directly where the assets are needed. 
+This methodology can be seen in the 15-week outline provided in my proposal for this project. 
+The first 11 weeks are pure experimentation and research - the finished game environment was entirely built in the final four weeks of the project. 
+
+## Results ##
+
+In the course of this project, I learned many key skills and tools that are essential to know to achieve mastery of Unreal Engine 5. 
+These include creating and manipulating objects; creating and adjusting the parameters of materials and textures, including creating master materials; 
+creating static meshes; learning the differences between baked and Lumen lighting and when to apply each; how to create and paint foliage; the types of asset resolution, 
+(including Nanite, the highest level of object and mesh resolution and how it works); and the difference between coding game behavior in C++ or setting it via Blueprints. 
+My assessment of my knowledge of the above skills was to produce an environment which would incorporate the following features: 
+a background of snow-capped mountains, a fall-foliage forest, streams and other bodies of water, elevation gradients across the landscape, a warm, sunlit sky, and a medieval style castle. 
+To build such a game environment would require utilizing nearly all of the skills discussed above. 
+The screenshot below showcases the accomplishment of that goal:
+
+![Week 15 Screenshot1](Week_15_Screenshot1.png)
+
+## Reflection ##
+
+It was extremely meaningful to me to bring to life essentially the exact environment I had envisioned at the outset of the project, meeting every goal I set for myself. 
+At the outset of the project, I was very concerned that this was too ambitious an undertaking and that I was underestimating the scope that would be required to accomplish all of this. 
+However, in retrospect, I’m quite proud of how I broke down the scope and partitioned the work across the 15 weeks of this course, 
+because I credit the schedule I created in the outline with achieving my goals for this project. 
+I feel very pleased with the results of this project, both in terms of the actual game environment I produced, as well as in terms of the marketable skills I have learned in the course of project completion. 
+
+## Conclusion ##
+
+This project was very significant to me personally for what I would describe as two reasons. 
+One is that, on a more general level, being involved in game development has been a career aspiration of mine essentially since I was a kid. 
+The other, more specific reason, is that the inspiration for the environment I wanted to create was a particular game - the 2006 Bethesda Game Studios role-playing game, The Elder Scrolls IV: Oblivion. 
+This game was one of the most formative games to me as a player, really showing what a marriage of incredible storytelling, game mechanics, and level design are capable of evoking to myself and millions of other players. 
+This game is nearly 20 years old, and it’s become a trend in the last 5-10 years for developers to remaster some of their most popular games, many of which have been released as “10-year anniversary” remasters. 
+Bethesda themselves remastered Oblivion’s sequel, Skyrim, in 2016, despite the original release of that game occurring in 2011. 
+Oblivion fans have long desired (and despaired of ever receiving) an official remaster of the beloved title. 
+This made it particularly poignant and serendipitous to me when, one week before the conclusion of this project, which has been my love-letter to the original Oblivion, Bethesda shadow-dropped a remaster of Oblivion. 
+It’s been hard not to see that event as a sign that this project was the right direction for me to go in, and to continue learning and mastering Unreal Engine, and eventually, other game development tools.
