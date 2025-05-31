@@ -6,7 +6,7 @@ title: Mid-Semester Project Update
 The original goal of this project was to familiarize myself with the tools and workings of the Unreal Engine IDE by creating a game environment. 
 By accomplishing this, I will become better acquainted with tools and practices in game development and more specifically, level design. 
 I have not made any changes to my originally proposed schedule and project goals, which can be found in my project proposal. 
-I attribute this success in staying on schedule with the quantity of resources available in and around Unreal Engine, which enabled me to appropriately scope the project. 
+I attribute this success in staying on schedule with the quantity of resources available in and around Unreal Engine, first and foremost of which is Unreal Sensei's tutorial found here, which enabled me to appropriately scope the project: https://www.youtube.com/watch?v=k-zMkzmduqI. 
 
 My accomplishments in the project so far have included installing and setting up the Unreal Engine IDE, learning the user interface, creating and moving some basic objects, 
 doing a deep dive into creating and manipulating materials and textures, creating a static mesh, and most recently, working with lighting. 
