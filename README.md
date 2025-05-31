@@ -37,10 +37,10 @@ This project is important to me because it’s long been a goal of mine to build
 ## Mitigation Strategy
 In regard to the first potential risk: while I’m unfamiliar with Unreal Engine as I begin this project, I have some experience with other game development engines such as Unity Engine. Additionally, I plan to leverage online support and resources such as Unreal’s help and troubleshooting articles and tutorials in any area in which I get stuck. 
 
-In regard to the second potential risk: I don’t believe it’s truly possible to overestimate the scope of the project - the number of settings and the degree of modularity in each is such that exploring them all could easily exceed 45 hours. To avoid underestimating the scope of the project, I made a decision in the brainstorming portion of the schedule not to attempt to build out a fully playable game, which could more easily get out of control and exceed the project scope. Instead, I’ve decided to focus my efforts on level design - I would rather focus on perfecting aspects such as backgrounds, landscapes, lighting, and other setting details. This mitigation strategy is reflected in the built-out project schedule above. 
+In regard to the second potential risk: I don’t believe it’s truly possible to overestimate the scope of the project - the number of settings and the degree of modularity in each is such that exploring them all could easily exceed 45 hours. To avoid underestimating the scope of the project, I made a decision in the brainstorming portion of the schedule not to attempt to build out a fully playable game, which could more easily get out of control and exceed the project scope. Instead, I’ve decided to focus my efforts on level design - I would rather focus on perfecting aspects such as backgrounds, landscapes, lighting, and other setting details. This is easily accomplished by following the Unreal Sensei tutorial credited below, so this mitigation strategy is reflected in the built-out project schedule above. 
 
 ## Project Assessments
-I have a deep love of The Elder Scrolls IV: Oblivion and have long desired a remaster of that game. What I envision for the completed project is a setting that could easily have been a dungeon pulled from Oblivion - a castle in a warmly-lit, forested, mountainous locale, only with modern day graphics. 
+I have a deep love of The Elder Scrolls IV: Oblivion and have long desired a remaster of that game. What I envision for the completed project is a setting that could easily have been a dungeon pulled from Oblivion - a castle in a warmly-lit, forested, mountainous locale, only with modern day graphics. Unreal Sensei's tutorial has the feel of an environment that could be found in Oblivion, so it made the perfect choice to follow it for this learning project.
 
 - Background: snow-capped mountains
 - Landscape: fall-foliage forest, streams, gradient and cliffs
@@ -49,3 +49,6 @@ I have a deep love of The Elder Scrolls IV: Oblivion and have long desired a rem
 
 ## Project Portfolio Link
 https://cstillma.github.io/ 
+
+## Acknowledgements
+The tutorial I followed for this project was provided by Unreal Sensei and can be found at this link: https://www.youtube.com/watch?v=k-zMkzmduqI
